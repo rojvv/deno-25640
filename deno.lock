@@ -1,0 +1,6 @@
+{
+  "version": "4",
+  "remote": {
+    "https://raw.githubusercontent.com/denoland/std/bf0ad522e873866764632b84f0e8460855f0d7e6/bytes/concat.ts": "ce4f42754a80f5c2fe6d21c1a8816c6a84f65f8515b6c3e9b6f589678a1f31ae"
+  }
+}

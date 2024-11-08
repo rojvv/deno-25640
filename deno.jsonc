@@ -1,0 +1,9 @@
+{
+  "vendor": true,
+  "license": "MIT",
+  "name": "@test/test",
+  "version": "0.0.0",
+  "exports": {
+    ".": "./mod.ts"
+  }
+}
